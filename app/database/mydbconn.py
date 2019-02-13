@@ -2,8 +2,8 @@ from app import app
 import pymssql
 
 # host = "201.49.223.4" # antigo
-# host = "10.0.1.202" # prod local
-host = "138.36.216.242" #prod 
+host = "10.0.1.202" # prod local
+# host = "138.36.216.242" #prod 
 user = "sa"
 # ukey = "6wraTEK4PDe6"
 ukey = "#Oc0rr3-!RupTur@*"
